@@ -3,10 +3,12 @@ class MoviePlotGenerator {
 	public static $adjectives = array('saditisch',
 									  'diminuitive',
 									  'dik',
+									  'lazy'
 									  'determined',
 									  'girsly');
 						
 	public static $occupations = array('movie-critic',
+									   'lawyer',
 									   'goat wrangler',
 									   'entrepreneur',
 									   'construction worker',
