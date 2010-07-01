@@ -1,8 +1,8 @@
 <?
 class MoviePlotGenerator {
-	public static $adjectives = array('sadistic',
+	public static $adjectives = array('saditisch',
 									  'diminuitive',
-									  'fat',
+									  'dik',
 									  'determined',
 									  'girsly');
 						
